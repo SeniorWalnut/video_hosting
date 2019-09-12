@@ -1,0 +1,7 @@
+body,
+html,
+#__nuxt,
+#__layout,
+.main-wrapper {
+	height: 100%;
+}
